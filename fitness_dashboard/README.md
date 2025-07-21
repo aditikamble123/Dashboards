@@ -15,21 +15,6 @@ https://fitnessmetricsdash.streamlit.app/
 
 ---
 
-## 📸 Screenshots
-
-### Home & File Upload
-![Screenshot (301)](https://github.com/user-attachments/assets/002883fa-e59c-41c2-afb0-a971205c5188)
-
-### Line Charts
-![newplot (3)](https://github.com/user-attachments/assets/d355869c-d91d-4b1b-a57a-a2576c5b2d64)
-
-### Correlation Heatmap
-![newplot (4)](https://github.com/user-attachments/assets/65962efb-d1b2-416b-9a70-3c96d208e3b5)
-
-> 🔧 Place all screenshots in a `/screenshots` folder in your repo.
-
----
-
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the repository
